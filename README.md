@@ -19,3 +19,7 @@ _______
 #### Реализовать 2 приложения:
 * Простое Web-приложения имитирующее удаленный сервер - [SimpleWebProject](https://github.com/beatztw/javalab-2023/tree/main/Context/SimpleWebProject)
 * Timeout Context - [TimeoutContext](https://github.com/beatztw/javalab-2023/tree/main/Context/TimeoutContext)
+-------
+
+# javalab-2024
+_______
