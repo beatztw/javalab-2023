@@ -23,3 +23,6 @@ _______
 
 # javalab-2024
 _______
+## [TASK 2]([https://github.com/beatztw/javalab-2023/tree/main/Microservices](https://github.com/beatztw/javalab-2023/tree/main/gRPC%20Project))
+#### Реализовать:
+* Простой gRPC проект на Go, используя MongoDB
