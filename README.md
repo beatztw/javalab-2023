@@ -23,6 +23,11 @@ _______
 
 # javalab-2024
 _______
+## [TASK 1](https://github.com/beatztw/javalab-2023/tree/main/WebFlux2024)
+#### Реализовать:
+* Реализовать сервисы с использованием WebFlux.
+-------
+
 ## [TASK 2](https://github.com/beatztw/javalab-2023/tree/main/gRPC%20Project)
 #### Реализовать:
 * Простой gRPC проект на Go, используя MongoDB
