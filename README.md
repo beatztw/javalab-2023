@@ -36,7 +36,7 @@ _______
 ## [TASK 4](https://github.com/beatztw/javalab-2023/tree/main/gRPCServices)
 #### Необходимо реализовать три сервиса:
 
-1. cv-service - взаимодействует с базой данных cv-db, которая хранит резюме пользователей (предусмотреть не менее 5 резюме с различными данными) - [cv-service](https://github.com/beatztw/javalab-2023/tree/main/CgRPCServices/CVService).
+1. cv-service - взаимодействует с базой данных cv-db, которая хранит резюме пользователей (предусмотреть не менее 5 резюме с различными данными) - [cv-service](https://github.com/beatztw/javalab-2023/tree/main/gRPCServices/CVService).
 
 2. job-service - предоставляет информацию о какой-либо вакансии. Вакансии следует вытаскивать из другой базы данных Mongo, можно назвать ее job-db - [job-service](https://github.com/beatztw/javalab-2023/tree/main/gRPCServices/JobService).
 
