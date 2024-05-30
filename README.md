@@ -31,3 +31,15 @@ _______
 ## [TASK 2](https://github.com/beatztw/javalab-2023/tree/main/gRPC%20Project)
 #### Реализовать:
 * Простой gRPC проект на Go, используя MongoDB
+* -------
+
+## [TASK 4](https://github.com/beatztw/javalab-2023/tree/main/gRPCServices)
+#### Необходимо реализовать три сервиса:
+
+1. cv-service - взаимодействует с базой данных cv-db, которая хранит резюме пользователей (предусмотреть не менее 5 резюме с различными данными) - [cv-service](https://github.com/beatztw/javalab-2023/tree/main/CgRPCServices/CVService).
+
+2. job-service - предоставляет информацию о какой-либо вакансии. Вакансии следует вытаскивать из другой базы данных Mongo, можно назвать ее job-db - [job-service](https://github.com/beatztw/javalab-2023/tree/main/gRPCServices/JobService).
+
+3. hr-service - по HTTP-запросу на GET /api/candidates возвращает пары резюме-вакансия, если требования резюме и вакансии совпадают - [hr-service](https://github.com/beatztw/javalab-2023/tree/main/gRPCServices/HRService).
+
+#### Все упаковать в докер, настроить через Docker Compose
